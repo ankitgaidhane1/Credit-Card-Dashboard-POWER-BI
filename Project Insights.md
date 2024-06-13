@@ -7,6 +7,7 @@ WoWchange:
 🔄 Transaction Growth: Total Transaction Amount and Count increased by 13% and 17% respectively.
 
 Overview YTD:
+
 💰 Overall Revenue: Overall revenue is 57M.
 
 🏦 Total Interest: Total interest is 8M.
