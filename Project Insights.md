@@ -1,5 +1,6 @@
 Welcome to the Project Insights repository! Here, you'll find key insights and statistics related to the project. Let's dive into the details:
 
+
 WoWchange:
 
 📈 Revenue Increase: Revenue increased by 28.8%.
