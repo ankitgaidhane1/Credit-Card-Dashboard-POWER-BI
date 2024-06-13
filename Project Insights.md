@@ -1,17 +1,24 @@
-Project Insights 
+Welcome to the Project Insights repository! Here, you'll find key insights and statistics related to the project. Let's dive into the details:
 
 WoWchange:
 
-1. Revenue increased by 28.8%.
-2. Total Transaction Amt & Count increased by 13% and 17%.
+📈 Revenue Increase: Revenue increased by 28.8%.
+
+🔄 Transaction Growth: Total Transaction Amount and Count increased by 13% and 17% respectively.
 
 Overview YTD:
+💰 Overall Revenue: Overall revenue is 57M.
 
-1. Overall revenue is 57M.
-2. Total interest is 8M.
-3. Total transaction amountn is 46M.
-4. Male customers are contributuing more in revenue 31M, female 26M.
-5. Blue & Silver credit card are contributing to 93% of overall transactions.
-6. TX, NY & CA is contributing to 68%.
-7. Overall Activation rate is 57.5%.
-8. Overall Delinquent rate is 6.06%.
+🏦 Total Interest: Total interest is 8M.
+
+💳 Transaction Amount: Total transaction amount is 46M.
+
+👫 Gender Contribution: Male customers contribute more in revenue (31M) compared to female customers (26M).
+
+💳 Credit Card Contribution: Blue and Silver credit cards contribute to 93% of overall transactions.
+
+🌎 Geographical Contribution: TX, NY, and CA contribute to 68% of total transactions.
+
+🔋 Activation Rate: Overall Activation rate is 57.5%.
+
+⚠️ Delinquency Rate: Overall Delinquency rate is 6.06%.
